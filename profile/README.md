@@ -23,7 +23,7 @@ Engine](https://mystmd.org/).
 ### Related orgs and repositories
 
 For historical reasons, our work is spread across multiple
-organizations. We list them, along with some key repositories, here to
+organizations. We list them here, along with some key repositories, to
 help contributors navigate:
 
 - https://github.com/jupyter-book
