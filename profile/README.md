@@ -1,6 +1,6 @@
 ## Community-driven tools for technical communication
 
-📖 Jupyter Book is [community
+📖 Jupyter Book is a [community
 developed](https://next.jupyterbook.org/about/community/) project that
 empowers you to create documents and knowledge bases that are
 reusable, reproducible, and interactive.
