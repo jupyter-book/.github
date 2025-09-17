@@ -31,11 +31,11 @@ help contributors navigate:
   - [myst-theme](https://github.com/jupyter-book/myst-theme/) — MyST web renderer
   - [landing page example](https://github.com/jupyter-book/example-landing-pages) — example MyST book with landing page
 
-- https://github.com/myst-templates
+- https://github.com/myst-templates - for storing and discovering community templates
   - [templates](https://github.com/myst-templates/templates) — MyST template server
   - [book theme](https://github.com/myst-templates/book-theme) — MyST book renderer
   - [LaPreprint typst theme](https://github.com/myst-templates/lapreprint-typst) — MyST typst paper renderer
 
-- https://github.com/executable-books
+- https://github.com/executablebooks - previous home of the project
   - [myst-vs-code](https://github.com/executablebooks/myst-vs-code) — VS Code MyST highlighter
   - [github-activity](https://github.com/executablebooks/github-activity) — release note generator
