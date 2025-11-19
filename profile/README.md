@@ -33,7 +33,7 @@ help contributors navigate:
   - [myst-plugins](https://github.com/jupyter-book/myst-plugins) — collection of extensions
 
 - https://github.com/myst-templates - for storing and discovering community templates
-  - [templates](https://github.com/myst-templates/templates) — MyST template server
+  - [templates](https://github.com/myst-templates/templates) — MyST template server (https://api.mystmd.org/)
   - [book theme](https://github.com/myst-templates/book-theme) — MyST book renderer
   - [LaPreprint typst theme](https://github.com/myst-templates/lapreprint-typst) — MyST typst paper renderer
 
