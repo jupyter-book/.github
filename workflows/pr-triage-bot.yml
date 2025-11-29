@@ -1,0 +1,22 @@
+# Update the PR Triage Board for our PR board:
+#   https://github.com/orgs/jupyter-book/projects/3/views/1
+# See these docs for reference:
+#   https://github.com/jupyter/pr-triage-board-bot#set-up
+name: 'Update PR Triage Board'
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:
+
+jobs:
+  pr-triage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update PR Triage Board
+        uses: jupyter/pr-triage-board-bot@main
+        with:
+          organization: 'jupyter-book'
+          project-number: '3'
+          gh-app-id: '2380078'
+          gh-app-installation-id: '97183355'
+          gh-app-private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
