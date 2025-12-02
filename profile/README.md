@@ -28,9 +28,11 @@ help contributors navigate:
 
 - https://github.com/jupyter-book
   - [mystmd](https://github.com/jupyter-book/mystmd) — MyST document engine
+  - [jupyter-book](https://github.com/jupyter-book/jupyter-book) — A thin wrapper around the `mystmd`
   - [myst-theme](https://github.com/jupyter-book/myst-theme/) — MyST web renderer
   - [landing page example](https://github.com/jupyter-book/example-landing-pages) — example MyST book with landing page
   - [myst-plugins](https://github.com/jupyter-book/myst-plugins) — collection of extensions
+  - [jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst) — JupyterLab MyST Extension
 
 - https://github.com/myst-templates - for storing and discovering community templates
   - [templates](https://github.com/myst-templates/templates) — MyST template server (https://api.mystmd.org/)
