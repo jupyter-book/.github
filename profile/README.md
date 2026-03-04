@@ -31,6 +31,7 @@ help contributors navigate:
   - [myst-theme](https://github.com/jupyter-book/myst-theme/) — MyST web renderer
   - [landing page example](https://github.com/jupyter-book/example-landing-pages) — example MyST book with landing page
   - [myst-plugins](https://github.com/jupyter-book/myst-plugins) — collection of extensions
+  - [mystmd.org](https://github.com/jupyter-book/mystmd.org) — mystmd website & custom theme
 
 - https://github.com/myst-templates - for storing and discovering community templates
   - [templates](https://github.com/myst-templates/templates) — MyST template server (https://api.mystmd.org/)
