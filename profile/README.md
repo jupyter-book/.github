@@ -1,7 +1,7 @@
 ## Community-driven tools for technical communication
 
 📖 Jupyter Book is a [community
-developed](https://next.jupyterbook.org/about/community/) project that
+developed](https://next.jupyterbook.org/about/community/) project (see [policies/practices](https://jupyterbook.org/compass/)) that
 empowers you to create documents and knowledge bases that are
 reusable, reproducible, and interactive.
 
@@ -34,7 +34,7 @@ help contributors navigate:
   - [mystmd.org](https://github.com/jupyter-book/mystmd.org) — mystmd website & custom theme
 
 - https://github.com/myst-templates - for storing and discovering community templates
-  - These repos may soon be migrated to https://github.com/myst-contrib
+  - [User contributions](https://github.com/myst-contrib)
   - [templates](https://github.com/myst-templates/templates) — MyST template server (https://api.mystmd.org/)
   - [book theme](https://github.com/myst-templates/book-theme) — MyST book renderer
   - [LaPreprint typst theme](https://github.com/myst-templates/lapreprint-typst) — MyST typst paper renderer
