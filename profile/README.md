@@ -1,7 +1,7 @@
 ## Community-driven tools for technical communication
 
 📖 Jupyter Book is a [community
-developed](https://next.jupyterbook.org/about/community/) project that
+developed](https://next.jupyterbook.org/about/community/) project (see [policies/practices](https://jupyterbook.org/compass/)) that
 empowers you to create documents and knowledge bases that are
 reusable, reproducible, and interactive.
 
@@ -33,12 +33,13 @@ help contributors navigate:
   - [landing page example](https://github.com/jupyter-book/example-landing-pages) — example MyST book with landing page
   - [myst-plugins](https://github.com/jupyter-book/myst-plugins) — collection of extensions
   - [jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst) — JupyterLab MyST Extension
-
+  - [mystmd.org](https://github.com/jupyter-book/mystmd.org) — mystmd website & custom theme
+- [myst-contrib](https://github.com/myst-contrib/) — a collection of community-supported plugins and templates
 - https://github.com/myst-templates - for storing and discovering community templates
+  - [User contributions](https://github.com/myst-contrib)
   - [templates](https://github.com/myst-templates/templates) — MyST template server (https://api.mystmd.org/)
   - [book theme](https://github.com/myst-templates/book-theme) — MyST book renderer
   - [LaPreprint typst theme](https://github.com/myst-templates/lapreprint-typst) — MyST typst paper renderer
-
 - https://github.com/executablebooks - previous home of the project
   - [myst-vs-code](https://github.com/executablebooks/myst-vs-code) — VS Code MyST highlighter
   - [github-activity](https://github.com/executablebooks/github-activity) — release note generator
