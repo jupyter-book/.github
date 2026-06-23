@@ -16,7 +16,7 @@ jobs:
         uses: jupyter/pr-triage-board-bot@main
         with:
           organization: 'jupyter-book'
-          project-number: '3'
+          project-number: '2'
           gh-app-id: '2380078'
           gh-app-installation-id: '97183355'
           gh-app-private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
